@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../vuesax"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Johon"
+	}
+}
